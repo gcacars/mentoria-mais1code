@@ -1,0 +1,19 @@
+{
+  "name": "mentoria-mais1code",
+  "version": "1.0.0",
+  "description": "Instruções, dicas e ensinos do processo de mentoria na +1 Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcacars/mentoria-mais1code.git"
+  },
+  "author": "Gabriel Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcacars/mentoria-mais1code/issues"
+  },
+  "homepage": "https://github.com/gcacars/mentoria-mais1code#readme"
+}
